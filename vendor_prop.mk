@@ -3,7 +3,7 @@
 #
 
 #havoc
-ro.havoc.maintainer=HARD_ROCK83
+ro.havoc.maintainer=Sanek-creed
 
 # ADB at boot
 persist.service.adb.enable=1
@@ -46,7 +46,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
   vendor.voice.path.for.pcm.voip=true \
   vendor.voice.playback.conc.disabled=true \
   vendor.voice.record.conc.disabled=false \
-  ro.config.media_vol_steps=25 \
+  ro.config.media_vol_steps=15 \
   ro.config.vc_call_vol_steps=7 \
   persist.audio.dirac.speaker=true \
   vendor.voice.voip.conc.disabled=true
